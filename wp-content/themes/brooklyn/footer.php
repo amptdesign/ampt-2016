@@ -195,8 +195,8 @@
                     ?>
                         
                     <span class="copyright">
-                        <?php esc_html_e('Powered by' , 'unitedthemes'); ?> <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'unitedthemes' ); ?>" data-rel="generator"><?php printf( __( ' %s', 'unitedthemes' ), 'WordPress' ); ?></a>
-                        <?php printf( __( 'Theme: %1$s by %2$s', 'unitedthemes' ), 'Brooklyn', '<a href="http://themeforest.net/item/brooklyn-creative-one-page-multipurpose-theme/6221179?ref=UnitedThemes" data-rel="designer">United Themes</a>' ); ?>
+                        <?php //esc_html_e('Powered by' , 'unitedthemes'); ?> <!-- <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'unitedthemes' ); ?>" data-rel="generator"><?php printf( __( ' %s', 'unitedthemes' ), 'WordPress' ); ?></a> -->
+                        <?php //printf( __( 'Theme: %1$s by %2$s', 'unitedthemes' ), 'Brooklyn', '<a href="http://themeforest.net/item/brooklyn-creative-one-page-multipurpose-theme/6221179?ref=UnitedThemes" data-rel="designer">United Themes</a>' ); ?>
                     </span>
                         
                 </div>
